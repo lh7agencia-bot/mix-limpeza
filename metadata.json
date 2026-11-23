@@ -1,0 +1,6 @@
+{
+  "name": "mix limpeza",
+  "description": "mix limpeza — Limpeza que brilha. Serviços profissionais de limpeza residencial, comercial e pós-obra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
